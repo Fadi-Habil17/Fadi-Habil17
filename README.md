@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/fadi-habil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
