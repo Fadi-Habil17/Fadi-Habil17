@@ -21,14 +21,16 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vcenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <img src="mygitphoto.png" alt="Profile Picture" width="230" height="230" style="border-radius: 50%;">
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust / Next.js / Cloud Architecture**
-- 💬 Ask me about **React, Node.js, and API Design**
-- 📫 How to reach me: **your.email@example.com**
+I'm a passionate developer focused on building modern, responsive, and scalable web applications.
+
+I started my journey with a strong interest in Frontend Development, and I'm continuously expanding my skills toward Full-Stack Development — from designing clean user interfaces to building APIs, handling databases, and connecting everything together.
 
 ---
 
