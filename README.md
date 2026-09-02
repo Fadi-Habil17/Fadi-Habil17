@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <img src="mygitphoto.png" alt="Profile Picture" width="230" height="230" style="border-radius: 50%;">
+  <img src="mygitphoto1.png" alt="Profile Picture" width="230" height="230" style="border-radius: 50%;">
 </p>
 
 ---
